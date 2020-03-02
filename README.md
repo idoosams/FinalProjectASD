@@ -1,2 +1,3 @@
 # FinalProjectASD
-The final project in the course "Advanced System Design" in Tel-Aviv University by Dan Gittik.
+The final project in the course "Advanced System Design".
+"Advanced System Design" - Tel-Aviv University by Dan Gittik.
